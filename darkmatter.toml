@@ -1,0 +1,34 @@
+# Darkmatter
+# https://darkmatter.build
+
+[colors.primary]
+background = "#121113"
+foreground = "#ffffff"
+
+[colors.cursor]
+text = "#121113"
+cursor = "#ffffff"
+
+[colors.selection]
+text = "#000000"
+background = "#222222"
+
+[colors.normal]
+black = "#121113"
+red = "#5f8787"
+green = "#fbcb97"
+yellow = "#e78a53"
+blue = "#888888"
+magenta = "#999999"
+cyan = "#aaaaaa"
+white = "#c1c1c1"
+
+[colors.bright]
+black = "#333333"
+red = "#5f8787"
+green = "#fbcb97"
+yellow = "#e78a53"
+blue = "#888888"
+magenta = "#999999"
+cyan = "#aaaaaa"
+white = "#c1c1c1"
