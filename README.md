@@ -1,4 +1,13 @@
-# Darkmatter for Alacritty
+<h3 align="center">
+	<img src="assets/logo.svg" width="100" alt="Logo"/><br/>
+	<img src="assets/transparent.svg" height="30" width="0px"/>
+	Darkmatter for Alacritty
+	<img src="assets/transparent.svg" height="30" width="0px"/>
+</h3>
+
+<p align="center">
+	<img src="assets/preview.webp" alt="Darkmatter for Alacritty"/>
+</p>
 
 An [Alacritty](https://alacritty.org) theme adapted from base16-black-metal-bathory.
 Requires Alacritty 0.13 or newer (TOML config).
